@@ -1,0 +1,9 @@
+.app {
+  composes: layout from "../../styles.css";
+  font-size: 5rem;
+  color: grey;
+}
+
+.app:hover {
+  background-color: lightgrey;
+}
