@@ -1,12 +1,9 @@
 module.exports = {
-  entry: './src/index',
+  entry: './src/index.jsx',
   output: {
     path: 'dist',
     publicPath: '/',
     filename: 'bundle.js'
-  },
-  resolve: {
-    extensions: ['', '.js','.jsx']
   },
   module: {
     loaders: [
