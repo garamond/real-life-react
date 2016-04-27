@@ -19,6 +19,6 @@
     "webpack-dev-server": "^1.14.1"
   },
   "scripts": {
-    "start": "webpack-dev-server --devtool '#eval-source-map' --inline --hot --content-base dist"
+    "start": "webpack-dev-server --devtool '#eval-source-map' --inline --hot --content-base dist --port 8888"
   }
 }
