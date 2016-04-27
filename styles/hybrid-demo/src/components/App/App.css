@@ -1,0 +1,8 @@
+.app .title {
+  font-size: 5rem;
+  color: grey;
+}
+
+.app .title:hover {
+  background-color: lightgrey;
+}
