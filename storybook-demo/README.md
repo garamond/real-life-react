@@ -1,6 +1,6 @@
-# Storybook demo 
+# React+Redux+D3+Storybook app example 
 
-## Running the demo
+## Running the app
 
     npm run dev
     open http://localhost:8080/
