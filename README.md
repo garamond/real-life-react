@@ -4,9 +4,9 @@ Slides and sources for [Zurich ReactJS Meetup on April 27th, 2016](http://www.me
 
 ## Slides
 
-- `slides.pdf` Intro and overview of React styling techniques by @garamond
-- `slides-storybook.pdf` On building reusable component libraries with [Storybook](https://github.com/kadirahq/react-storybook) by @ilyabo
-- `slides-catalog.pdf` Building style guides with [Catalog](http://interactivethings.github.io/catalog/) by @herrstucki
+- `slides.pdf` Intro and overview of React styling techniques by [@garamond](https://github.com/garamond)
+- `slides-storybook.pdf` On building reusable component libraries with [Storybook](https://github.com/kadirahq/react-storybook) by [@ilyabo](https://github.com/ilyabo)
+- `slides-catalog.pdf` Building style guides with [Catalog](http://interactivethings.github.io/catalog/) by [@herrstucki](https://github.com/herrstucki)
 
 ## Code Demos
 
